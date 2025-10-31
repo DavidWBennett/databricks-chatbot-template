@@ -1,5 +1,5 @@
 bundle:
-  name: databricks-chatbot
+  name: databricks-chatbot-test
 
 variables:
   serving_endpoint_name:
